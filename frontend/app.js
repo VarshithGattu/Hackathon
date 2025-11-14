@@ -1,5 +1,5 @@
 // Minimal frontend logic for demo purposes
-const API = 'http://localhost:4000/api';
+const API = 'https://hackathon-0ll0.onrender.com/api';
 // track which reminders we've notified this session to avoid duplicates
 const notifiedReminders = new Set();
 // confirmation callback holder
